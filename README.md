@@ -70,6 +70,7 @@ ng serve
 Frontend will be available at:
 http://localhost:4200
 
+<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/0951c44f-6e48-48f0-8e5c-f96bfb5a1b6b" />
 
 
 
